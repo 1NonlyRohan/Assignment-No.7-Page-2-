@@ -1,0 +1,72 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-content {
+    margin: 50px 0px 10px 150px;
+}
+
+.header-content h1 {
+    font-size: 30px;
+    font-family: cinzel;
+}
+
+.header-content p {
+    padding: 20px 900px 110px 0px;
+    color: rgb(15, 86, 218);
+    font-family: monospace;
+    font-size: 35px;
+}
+
+.img {
+    float: right;
+    width: 20%;
+    margin-top: -440px;
+    margin-right: 640px;
+}
+
+.mid {
+    margin: 330px 100px 50px 100px;
+    background-color: #c4cbc8;
+    padding: 50px;
+}
+
+.mid .cont1 {
+    margin: 10px 0px 10px 10px;
+}
+
+.mid .cont1 p {
+    font-family: monospace;
+    font-size: 30px;
+}
+
+.mid .cont2 {
+    margin: -40px 10px 10px 430px;
+}
+
+.mid .cont2 p {
+    font-family: monospace;
+    font-size: 30px;
+    margin-right: 70%;
+}
+
+.mid .cont3 {
+    margin: -120px -550px 0px 900px;
+}
+
+.mid .cont3 p {
+    font-family: monospace;
+    font-size: 30px;
+    margin-right: 70%;
+}
+
+.mid .cont4 {
+    margin: -120px -550px 0px 1400px;
+}
+
+.mid .cont4 p {
+    font-family: monospace;
+    font-size: 30px;
+    margin-right: 70%;
+}
